@@ -1,0 +1,63 @@
+20MCA131 Programming Lab Internal Exam Sample questions
+
+1. Write a Python function called ‘compare’ which takes two strings S1, S2 and an integer n as
+arguments. The function should return True if the first n characters of both the strings are
+the same else the function should return False.
+
+2. Write a function in file Armstrong.py to check whether a number is an Armstrong number.
+Import the module to generate Armstrong numbers between two limits.
+
+3. Write a python function that takes two lists and returns True if they have at least one
+common member.
+
+4. Define a class to represent a bank account. Include the following details like name of the
+depositor, account number, type of account, balance amount in the account. Write methods
+to assign initial values, to deposit an amount, withdraw an amount after checking the
+balance, to display details such as name, account number, account type and balance.
+
+5. Write lambda functions to find the area of square, rectangle and triangle.
+
+6. Create a class Time with private attributes hour, minute and second. Overload ‘+’ operator
+to find sum of 2 times.
+
+7. Write a program to sum the series 1/1! + 4/2! + 27/3! + ..... + nth term.
+
+8. Write a program that validates name and age as entered by the user to determine whether
+the person can cast a vote or not using user defined exception,
+
+9. Generate a list of four digit numbers in a given range with all their digits even and the
+number is a perfect square.
+
+10.Create a package graphics with modules rectangle, circle and sub-package 3D-graphics
+with modules cuboid and sphere. Include methods to find area and perimeter of respective
+figures in each module. Write programs that find the area and perimeter of figures by
+different importing statements.
+
+11.Write a program to add variable length integer arguments passed to the function.
+
+12.Write a program that has an abstract class Polygon. Derive two classes Rectangle and
+Triangle from Polygon and write methods to get the details of their dimensions and hence
+calculate the area.
+
+13.Write a python program to print yesterday, today and tomorrow.
+
+14.Write a program that prompts the user to enter a number. If the number is positive or zero
+print it, otherwise raise a ‘ValueError’ Exception.
+
+15.Write a python program to find the sum of natural numbers using a recursive function.
+
+16.Create a class Publisher with attributes publisher id and publisher name. Derive class Book
+from Publisher with attributes title and author. Derive class Python from Book with
+attributes price and no_of_pages. Write a program that displays information about a Python
+book. Use base class constructor invocation and method overriding.
+
+17.Write a program to print the Fibonacci series using recursion.
+
+18.Create a Rectangle class with attributes length and breadth and methods to find area and
+perimeter. Compare two Rectangle objects by their area.
+
+19.Write a Python program to count the occurrences of each word in a line of text.
+
+20.List comprehensions: (a) Generate positive list of numbers from a given list of integers (b)
+Square of N numbers (c) Form a list of vowels selected from a given word (d) Form a list
+ordinal value of each element of a word
