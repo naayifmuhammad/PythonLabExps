@@ -1,3 +1,8 @@
+# 10.Create a package graphics with modules rectangle, circle and sub-package 3D-graphics
+# with modules cuboid and sphere. Include methods to find area and perimeter of respective
+# figures in each module. Write programs that find the area and perimeter of figures by
+# different importing statements.
+
 from graphics.rectangle import *
 from graphics.circle import *
 from graphics.graphics3D import cuboid
