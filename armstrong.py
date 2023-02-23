@@ -12,10 +12,3 @@ def armstrongNumber(number):
         return True
     else:
         return False
-
-while(True):
-    if armstrongNumber(int(input("Enter a number: "))):
-        print(f"It is an armstrong number")
-    else:
-        print(f"It is not an armstrong number")
-
